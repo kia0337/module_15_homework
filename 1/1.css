@@ -1,0 +1,19 @@
+.button-test {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.button__icon {
+    display: block;
+    width: 20px;
+    height: 20px;
+}
+
+.btn__icon2 {
+    display: none;
+    width: 20px;
+    height: 20px;
+}
